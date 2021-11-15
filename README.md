@@ -17,9 +17,9 @@ Content development for the PerfectFit virtual coach
 ## Data structure
 * 1 excel file per conversation
 * Columns:
- - 'Virtual Coach': what the coach should say
- - 'User': what we expect the user to say
- - 'Comments': The format (free text, option selection), specific actions (read or save from/to database for example)
+  - 'Virtual Coach': what the coach should say
+  - 'User': what we expect the user to say
+  - 'Comments': The format (free text, option selection), specific actions (read or save from/to database for example)
 * 1 line per 'sentence'
 * Save the file in Teams folder
 * Name your file like : 'dialog2-craving-hrs-registration.xlsx' (according to the title of your dialog)
